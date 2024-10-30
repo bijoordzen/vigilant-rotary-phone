@@ -6,5 +6,6 @@ import './index.css'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
+    <h1>Hello This sis feature B</h1>
   </StrictMode>,
 )
